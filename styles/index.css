@@ -1,0 +1,61 @@
+.main-logo {
+    margin-top: 37px;
+    margin-left: 80px;
+    width: 495px;
+    height: 152px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+}
+
+
+.dot {
+    color: #33A2E0
+}
+
+.title {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 281px;
+    margin-left: 200px;
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+
+}
+
+
+.info {
+    max-width: 582px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+
+
+.btn {
+    margin-top: 50px;
+    margin-left: 200px;
+    height: 64px;
+    width: 152px;
+    background-color: #FC569A;
+    border-radius: 6px;
+}
