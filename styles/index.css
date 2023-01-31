@@ -5,6 +5,39 @@ li {
 }
 
 
+
+a {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+
+}
+
+
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+
 .main-logo {
     margin-top: 37px;
     margin-left: 80px;
@@ -18,13 +51,56 @@ li {
     color: #0A1B32;
 }
 
+
+
 .dot {
     color: #FC569A
 }
 
 
+
+.home {
+    margin-left: 50px;
+}
+
+.about {
+    margin-left: 50px;
+}
+
+.contact {
+    margin-left: 50px;
+}
+
+.blog {
+    margin-left: 50px;
+}
+
+.sign-in {
+    margin-left: 700px;
+}
+
+.sign-up-btn {
+    margin-left: 50px;
+    height: 64px;
+    width: 152px;
+    background: #FC569A;
+    border-radius: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
 .title {
-    max-width: 495px;
+    max-width: 595px;
     width: 100%;
     margin-top: 203px;
     margin-left: 200px;
@@ -38,6 +114,7 @@ li {
     color: #1B0A42;
 
 }
+
 
 
 .info {
@@ -54,6 +131,7 @@ li {
     letter-spacing: 0.02em;
     color: #9A9A9A;
 }
+
 
 
 .btn {
