@@ -1,3 +1,10 @@
+h3,
+ul,
+li {
+    display: inline-block;
+}
+
+
 .main-logo {
     margin-top: 37px;
     margin-left: 80px;
@@ -10,7 +17,6 @@
     letter-spacing: -0.02em;
     color: #0A1B32;
 }
-
 
 .dot {
     color: #FC569A
@@ -72,29 +78,4 @@
 
 section {
     display: inline-block;
-}
-
-
-nav ul {
-    float: right;
-}
-
-nav li {
-    display: inline-block;
-    list-style: none;
-}
-
-
-li {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* identical to box height, or 150% */
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #1B0A42;
-
-
 }
